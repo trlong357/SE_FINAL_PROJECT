@@ -1,0 +1,243 @@
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmLogin.resources
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmTrangChu.resources
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmNhapKho.resources
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmDatHang.resources
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmTKDT.resources
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmTKHH.resources
+F:\CNPM\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmXuatKho.resources
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmLogin.resources
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmNhapKho.resources
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmTKDT.resources
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmTKHH.resources
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmXuatKho.resources
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmTrangChu_Ketoan.resources
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmTrangChu_Daily.resources
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Order.resources
+C:\Users\MSI GAMING\Desktop\GitHub\Final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Confirm.resources
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.dll
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.Report.dll
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\MoreLinq.dll
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\System.ValueTuple.dll
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.pdb
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.xml
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\MoreLinq.xml
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\bin\Debug\System.ValueTuple.xml
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ExportInfo.resources
+C:\Users\MSI GAMING\Desktop\GitHub\final\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ImportInfo.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.Report.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\MoreLinq.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.ValueTuple.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.pdb
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.xml
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\MoreLinq.xml
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.ValueTuple.xml
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Confirm.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ExportInfo.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Login.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmNhapKho.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmTKDT.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmTKHH.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmTrangChu_Ketoan.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmXuatKho.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmTrangChu_Daily.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Order.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ImportInfo.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-main\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.Report.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\MoreLinq.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.ValueTuple.dll
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.pdb
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.xml
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\MoreLinq.xml
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.ValueTuple.xml
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Confirm.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ExportInfo.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Login.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmNhapKho.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Order.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ImportInfo.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FormMain_kt.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FormThongkeDT.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ThongKeHangHoa.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Xuat.resources
+C:\Users\muonroi\OneDrive\Máy tính\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Daily_home.resources
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.dll
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.Report.dll
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ExcelNumberFormat.dll
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\MoreLinq.dll
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.IO.Packaging.dll
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.dll
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.ValueTuple.dll
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.pdb
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.xml
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ExcelNumberFormat.xml
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\MoreLinq.xml
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.pdb
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.xml
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.ValueTuple.xml
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Confirm.resources
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ExportInfo.resources
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Login.resources
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmNhapKho.resources
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FormThongkeDT.resources
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ThongKeHangHoa.resources
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FormMain_kt.resources
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Xuat.resources
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Daily_home.resources
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Order.resources
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ImportInfo.resources
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\Final-Project-mains\Final-Project-mains\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.dll
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.Report.dll
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ExcelNumberFormat.dll
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\MoreLinq.dll
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.IO.Packaging.dll
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.dll
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.ValueTuple.dll
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.pdb
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.xml
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ExcelNumberFormat.xml
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\MoreLinq.xml
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.pdb
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.xml
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.ValueTuple.xml
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Confirm.resources
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ExportInfo.resources
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Login.resources
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmNhapKho.resources
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FormThongkeDT.resources
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ThongKeHangHoa.resources
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FormMain_kt.resources
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Xuat.resources
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Daily_home.resources
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Order.resources
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ImportInfo.resources
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\Final-Project-mains\518H0105_518H\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.dll
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.Report.dll
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ExcelNumberFormat.dll
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\MoreLinq.dll
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.IO.Packaging.dll
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.dll
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.ValueTuple.dll
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.pdb
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ClosedXML.xml
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\ExcelNumberFormat.xml
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\MoreLinq.xml
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.pdb
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.Linq.Dynamic.Core.xml
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\bin\Debug\System.ValueTuple.xml
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Confirm.resources
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ExportInfo.resources
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Login.resources
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FrmNhapKho.resources
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FormThongkeDT.resources
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ThongKeHangHoa.resources
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.FormMain_kt.resources
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Xuat.resources
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Daily_home.resources
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Order.resources
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.ImportInfo.resources
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\Final-Project-mains\518H0105_518H0591\Final-Project-main\Source Code\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
